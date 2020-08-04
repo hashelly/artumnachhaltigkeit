@@ -5,9 +5,17 @@ date:   2020-07-07 15:28:55 +0300
 image:  img_entwurf.jpg
 tags:   Müll Lehre Recycling Entwurf
 ---
-Mülltrennung durch die Mitarbeiter*innen findet teilweise statt. Zumindest zwischen Glas. Papier und
-Restmüll. Inwiefern die Mülltrennung vom Gebäudemanagement weitergeführt wird, ist unklar. Das
-trägt auch zu wenig Motivation seitens der Mitarbeiter*innen bei.
+
+250 Studierende haben letztes Semester zusammen knapp 2000 Modelle gebaut. Dafür wurden 4000
+Pappen, 250 Liter Leim und über 100 Dosen Sprayfarbe verbraucht und sowie mehr als 1700 Stunden
+gelasert. Zudem wurden fast 5000 Pläne geplottet.
+Aus der Umfrage wird ersichtlich, dass viele Studierenden den hohen Materialverbrauch durchaus als
+Problem wahrnehmen.
+
+Der Modellbau gehört zum Entwurfsstudio dazu, ebenso wie Planzeichnungen verschiedener Maßstäbe.
+Jedoch muss dies mit Verhältnissmäßigkeit getan und die Angemessenheit verschiedener Methoden
+abgewogen werden. Durch die Digitalisierung sind neue Tools vorhanden, die einen Beitrag zur
+Nachhaltigkeit leisten können.
 
 In den Arbeitsräumen der Entwurfsstudios funktioniert die Mülltrennung teils sehr schlecht,
 sofern überhaupt getrennte Behältnisse vorgesehen sind. Laut den Studierenden, werden
@@ -21,8 +29,9 @@ fehlt jedoch ein Ort. Außerdem gibt es eine Materialbörse auf Facebook.
 
 ###### Stellschrauben
 
-* Inwiefern findet Mülltrennung seitens des Gebäudemanagements statt? Kann dies ausgeweitet werden?
-* Können wir Sharing oder Tauschangebote einführen? Projekt TUM-Swap-Shop?
-* Wie könnten Materialbörsen in allen Studios organisiert werden? Könnten gesammelte Materialbestellungen
-Sinn machen um Verpackung zu sparen?
-* Wie können wir auf weniger Müllproduktion innerhalb des Lehr- und Forschungsbetriebs hinwirken?
+* Wie kann eine Sensibilisierung bei Lehrenden und Studierenden stattfinden?
+* Können wir Maßgaben für einen angemessenen Umgang mit Materialien erarbeiten?
+* Wie wär‘s mit einer Modellmöbelvermietung um Material zu sparen?
+* Gibt es nachhaltigere Materialien, z.B. umweltverträgliche Klebstoffe, die verwendet werden können?
+* Welche Recyclingpotenziale gibt es?
+* Wie können bessere Mülltrennung und Recycling-Kreisläufe in die Entwurfsarbeit integriert werden?

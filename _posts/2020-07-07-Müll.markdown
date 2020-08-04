@@ -5,26 +5,14 @@ date:   2020-07-07 15:28:55 +0300
 image:  img_müll.jpg
 tags:   Recycling
 ---
-An den Lehrstühlen befindet sich ein Teil der elektronischen Geräte (39%) dauerhaft im Standby. Die
-Regulierung der Heizungen funktioniert in manchen Räumen schlecht. Es gibt kein übergreifendes Energiekonzept.
-
-
-
-![]({{site.baseurl}}/img/diagram_mob.jpg)
-
-
+Mülltrennung durch die Mitarbeiter\*innen findet teilweise statt. Zumindest zwischen Glas. Papier und
+Restmüll. Inwiefern die Mülltrennung vom Gebäudemanagement weitergeführt wird, ist unklar. Das
+trägt auch zu wenig Motivation seitens der Mitarbeiter*innen bei.
 
 ###### Stellschrauben
 
-* Wie hoch ist unser Stromverbrauch als Fakultät? Wie hoch ist unser Wasserverbrauch? Wie viel wird
-geheizt?
-* Können wir Monitoring einführen um Schwachstellen zu finden sowie zu sensibilisieren? 
-* Können wir durch intelligente Thermostate oder Präsenzmelder den Verbrauch reduzieren?
-* Wo sind die energetischen Schwachstellen unserer Hochschulgebäude?
-* Wie kann die Nutzung des Gebäudebestands besser organisiert oder umstrukturiert werden?
-
-Ansprechpartner*in: Laura Franke
-
-###### Pilot
-
-* REUSED
+* Inwiefern findet Mülltrennung seitens des Gebäudemanagements statt? Kann dies ausgeweitet werden?
+* Können wir Sharing oder Tauschangebote einführen? Projekt TUM-Swap-Shop?
+* Wie könnten Materialbörsen in allen Studios organisiert werden? Könnten gesammelte Materialbestellungen
+Sinn machen um Verpackung zu sparen?
+* Wie können wir auf weniger Müllproduktion innerhalb des Lehr- und Forschungsbetriebs hinwirken?
