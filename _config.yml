@@ -3,8 +3,8 @@
 
 title: Taskforce Nachhaltigkeit
 description: Wir sind die Taskforce Nachhaltigkeit der Fakultät Architektur an der Technischen Universität München. # this means to ignore newlines until "baseurl:"
-baseurl: "/artumnachhaltigkeit" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "nachhlatigkeit.ar.tum.de" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
