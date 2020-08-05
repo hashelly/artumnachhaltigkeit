@@ -7,7 +7,7 @@ tags:   Mobilität Lehre Forschung Klima
 ---
 Liebe Kolleg\*innen, liebe Studierende, 
 
-Liebe Teilnehmer*innen der Nachhaltigkeitsumfrage, 
+Liebe Teilnehmer\*innen der Nachhaltigkeitsumfrage, 
 
  
 
@@ -19,4 +19,4 @@ Mit der Einsetzung der Task Force Nachhaltigkeit und der Einrichtung einer Stabs
 
  
 
-Als nächster Schritt liegt daher die Bildung von Arbeits- und Projektgruppen nahe um unsere Ressourcen und unser know-how zu bündeln. Diese können bestehende Initiativen aufnehmen, sich mit den für unser Fach spezifischen Herausforderungen und Möglichkeiten hinsichtlich Nachhaltigkeit beschäftigen, konkrete Projekte lancieren, und so die Anstrengungen auf Ebene des Präsidiums „bottom-up“ ergänzen, insbesondere dann, wenn das Thema Nachhaltigkeit auf Hochschulebene stärker verankert und thematisiert wird. Im halbjährlichen Rhythmus möchten wir Vertreter*innen der Arbeitsgruppen zusammenbringen, um über die Umsetzung zu diskutieren.  
+Als nächster Schritt liegt daher die Bildung von Arbeits- und Projektgruppen nahe um unsere Ressourcen und unser know-how zu bündeln. Diese können bestehende Initiativen aufnehmen, sich mit den für unser Fach spezifischen Herausforderungen und Möglichkeiten hinsichtlich Nachhaltigkeit beschäftigen, konkrete Projekte lancieren, und so die Anstrengungen auf Ebene des Präsidiums „bottom-up“ ergänzen, insbesondere dann, wenn das Thema Nachhaltigkeit auf Hochschulebene stärker verankert und thematisiert wird. Im halbjährlichen Rhythmus möchten wir Vertreter\*innen der Arbeitsgruppen zusammenbringen, um über die Umsetzung zu diskutieren.  
