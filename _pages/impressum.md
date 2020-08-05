@@ -5,11 +5,11 @@ permalink: /impressum/
 ---
 
 ###### Herausgeber
-Technische Universität München
-Arcisstraße 21
-80333 München
-Telefon: +4989289-01
-poststelle@tum.de
+Technische Universität München <br>
+Arcisstraße 21 <br>
+80333 München <br>
+Telefon: +4989289-01<br>
+poststelle@tum.de<br>
 
 ###### Vertretungs­berechtigt
 Die Technische Universität München wird gesetzlich vertreten durch den Präsidenten, Prof. Dr. Thomas F. Hofmann.
