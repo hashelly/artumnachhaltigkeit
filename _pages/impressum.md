@@ -21,11 +21,11 @@ Bayerisches Staatsministerium für Wissenschaft und Kunst
 DE811193231 (gemäß § 27a Umsatzsteuergesetz )
 
 ###### Inhaltlich verantwortlich
-Dekan
-Prof. Andreas Hild
-Arcisstr. 21
-80333 München
-E-Mail: dekanat@ar.tum.de
+Dekan<br>
+Prof. Andreas Hild <br>
+Arcisstr. 21<br>
+80333 München<br>
+E-Mail: dekanat@ar.tum.de<br>
 Namentlich gekennzeichnete Internetseiten geben die Auffassungen und Erkenntnisse der genannten Personen wieder.
 
 ###### Technische Umsetzung
