@@ -14,6 +14,12 @@ poststelle@tum.de<br>
 ###### Vertretungs­berechtigt
 Die Technische Universität München wird gesetzlich vertreten durch den Präsidenten, Prof. Dr. Thomas F. Hofmann.
 
+###### Zuständige Aufsichtsbehörde
+Bayerisches Staatsministerium für Wissenschaft und Kunst
+
+###### Umsatzsteuer­identifikations­nummer
+DE811193231 (gemäß § 27a Umsatzsteuergesetz )
+
 ###### Nutzungsbedingungen
 Texte, Bilder, Grafiken sowie die Gestaltung dieses Webauftritts können dem Urheberrecht unterliegen. Nicht urheberrechtlich geschützt sind nach § 5 des Urheberrechtsgesetz (UrhG)
 
