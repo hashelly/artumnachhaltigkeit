@@ -35,3 +35,5 @@ fehlt jedoch ein Ort. Außerdem gibt es eine Materialbörse auf Facebook.
 * Gibt es nachhaltigere Materialien, z.B. umweltverträgliche Klebstoffe, die verwendet werden können?
 * Welche Recyclingpotenziale gibt es?
 * Wie können bessere Mülltrennung und Recycling-Kreisläufe in die Entwurfsarbeit integriert werden?
+
+*Die Zahlen und Statistiken ergeben sich aus einer nicht repräsentativen Umfrage, die im Mai 2020 unter Studierenden und Mitarbeiter\*innen der Fakultät für Architektur der TUM durgeführt wurde und an der insgesamt 310 Personen teilnahmen.*
