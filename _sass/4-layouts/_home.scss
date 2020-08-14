@@ -182,7 +182,6 @@
 // Articles
 .article-first {
   margin-bottom: 30px;
-  background: $black;
   .article-image-first {
     position: relative;
     display: flex;
@@ -191,7 +190,6 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: $black;
     box-shadow: 0 9px 18px 0 rgba(0, 0, 0, .25);
     &:before {
       content: "";
@@ -244,10 +242,6 @@
   }
 }
 
-.article {
-  display: flex;
-  margin-bottom: 25px;
-    }
   .article-box {
     padding-bottom: 20px;
     border-bottom: 2px solid $border-color;
@@ -262,7 +256,6 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: $black;
     &:before {
       content: "";
       display: table;

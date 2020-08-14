@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  AG Müll
+title:  AG Ressourceneffizienz
 date:   2020-07-07 15:28:55 +0300
 image:  img_müll.jpg
-tags:   Recycling
+tags:   Recycling Müll
 ---
 Mülltrennung durch die Mitarbeiter\*innen findet teilweise statt. Zumindest zwischen Glas. Papier und
 Restmüll. Inwiefern die Mülltrennung vom Gebäudemanagement weitergeführt wird, ist unklar. Das
@@ -15,4 +15,3 @@ trägt auch zu wenig Motivation seitens der Mitarbeiter*innen bei.
 * Können wir Sharing oder Tauschangebote einführen? Projekt TUM-Swap-Shop?
 * Wie könnten Materialbörsen in allen Studios organisiert werden? Könnten gesammelte Materialbestellungen
 Sinn machen um Verpackung zu sparen?
-* Wie können wir auf weniger Müllproduktion innerhalb des Lehr- und Forschungsbetriebs hinwirken?
