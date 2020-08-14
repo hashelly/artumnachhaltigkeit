@@ -59,21 +59,6 @@ $(function() {
   var ww = window.innerWidth,
     wh = window.innerHeight;
 
-  $(window).ready(function () {
-    $('body').waitForImages({
-      finished: function () {
-        setTimeout(function () {
-          $('.preloader').addClass('hide');
-
-          setTimeout(function () {
-            reveals();
-          }, 100);
-        }, 500);
-      },
-      waitForAll: true
-    });
-  });
-
   function reveals() {
     $(window).on('scroll', function () {
       $(".article-box, .article-first, .post-image-box, .page-image-box, .post-body img, .page-body img, .recent-header").each(

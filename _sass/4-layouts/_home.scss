@@ -324,8 +324,6 @@
 
 .article-first .article-image-first, .article-box .article-image {
   position: relative;
-  opacity: 0;
-  transition: all 1s cubic-bezier(0.6, 0.3, 0, 1);
 }
 
 .article-first.reveal-in .article-image-first, .article-box.reveal-in .article-image {
