@@ -218,6 +218,30 @@
   }
 }
 
+// Download Widget
+.widget-download {
+  text-align: center;
+  .download-item {
+    display: inline-block;
+    margin: 3px;
+  }
+  .download-link {
+    display: inline-block;
+    line-height: 16px;
+    padding: 8px 10px;
+    border: 1px solid $border-color;
+    border-radius: $global-radius;
+    color: $border-color;
+    &:hover {
+      border-color: $primary-color;
+      color: $primary-color;
+    }
+    i {
+      font-size: 18px;
+    }
+  }
+}
+
 // Tags Widget
 .tag-list {
   .tag-item {
