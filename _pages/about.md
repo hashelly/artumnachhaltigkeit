@@ -9,7 +9,7 @@ Gemeinsam wollen wir unsere Fakultät und unsere Uni nachhaltiger gestalten. In 
 
 Auf unserem Blog findest du, woran wir gerade arbeiten, welche Projekte es gibt und wie du dich einbringen kannst.
 
-Aktiv dabei sind: Benedikt Boucsein, Kathrin Dörfler. Laura Franke, Michelle Hagenauer, Gerhard Schubert
+Aktiv dabei sind: Benedikt Boucsein, Kathrin Dörfler, Laura Franke, Michelle Hagenauer, Gerhard Schubert
 
 Auch Lust mitzugestalten?
 Kontakt: nachhaltigkeit@ar.tum.de
