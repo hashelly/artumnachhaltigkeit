@@ -17,9 +17,9 @@ wir waren erfreut über die rege Teilnahme an und sonstige Rückmeldungen zu uns
 <b> Was? </b> Ideen diskutieren, Projektgruppen gründen, sich vernetzen
 <b> Anmeldung? </b> Per Mail an <a href="mailto:nachhaltigkeit@ar.tum.de">nachhaltigkeit@ar.tum.de</a>
 
-Die AG Nachhaltigkeit und alle Infos findet ihr hier: <a href = http://nachhaltigkeit.ar.tum.de>www.nachhaltigkeit.ar.tum.de</a>
+Die AG Nachhaltigkeit und alle Infos findet ihr hier: <a href = "http://nachhaltigkeit.ar.tum.de" >www.nachhaltigkeit.ar.tum.de</a>
 
-Die Stabsstelle Nachhaltigkeit, die von Seiten des TUM-Präsidiums ins Leben gerufen wurde, verfolgt bereits eine umfassende Strategie für die gesamte TUM (mehr Informationen <a href = https://www.together.tum.de/aktuelles/veroeffentlichungen/2020/04/20/so-foerdert-die-tum-nachhaltigkeit > (siehe together.tum.de) </a>. Als Arbeitsgruppe Nachhaltigkeit an der Architekturfakultät knüpfen wir an diese Strategie an und ergänzen sie mit fachspezifischen Projekten. 
+Die Stabsstelle Nachhaltigkeit, die von Seiten des TUM-Präsidiums ins Leben gerufen wurde, verfolgt bereits eine umfassende Strategie für die gesamte TUM (mehr Informationen <a href = "https://www.together.tum.de/aktuelles/veroeffentlichungen/2020/04/20/so-foerdert-die-tum-nachhaltigkeit" > (siehe together.tum.de) </a>. Als Arbeitsgruppe Nachhaltigkeit an der Architekturfakultät knüpfen wir an diese Strategie an und ergänzen sie mit fachspezifischen Projekten. 
 
 In der Umfrage haben sich verschiedene Themen herauskristallisiert, die erwartbar waren, zu denen aber nun auch erste Anhaltspunkte vorliegen. Auf unserem Blog haben wir daher wichtige Erkenntnisse aus der Umfrage zusammengefasst, Hypothesen formuliert und Vorschläge für Projektgruppen formuliert. 
 
