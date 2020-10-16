@@ -5,7 +5,7 @@ date:   2020-08-07 15:28:55 +0300
 image:  titel_map.jpg
 tags:   Mobilität Lehre Forschung Klima
 ---
-Liebe Kolleg\*innen, liebe Student\*innen, 
+Liebe Kolleg\*innen, liebe Student\*innen, <br/>
 Liebe Teilnehmer\*innen der Nachhaltigkeitsumfrage, 
  
 wir waren erfreut über die rege Teilnahme an und sonstige Rückmeldungen zu unserer Umfrage, mit der wir im Mai 2020 den Status quo, mögliche Tätigkeitsfelder und Ideen ausgelotet haben. Viele haben sich mit Ideen zurückgemeldet und (auch schon vorher) Interesse zur Mitwirkung an der Nachhaltigkeit an der Fakultät begründet. Durch die Corona-Krise sind auch wir in unserer Tätigkeit unterbrochen und verlangsamt worden, gleichzeitig aber sehen wir die Krise als Möglichkeit für einen Neustart und ein radikales Umdenken der Lehr- und Forschungstätigkeit der Fakultät Architektur hinsichtlich Nachhaltigkeit. 
