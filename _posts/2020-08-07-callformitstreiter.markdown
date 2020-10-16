@@ -10,11 +10,11 @@ Liebe Teilnehmer\*innen der Nachhaltigkeitsumfrage,
  
 wir waren erfreut über die rege Teilnahme an und sonstige Rückmeldungen zu unserer Umfrage, mit der wir im Mai 2020 den Status quo, mögliche Tätigkeitsfelder und Ideen ausgelotet haben. Viele haben sich mit Ideen zurückgemeldet und (auch schon vorher) Interesse zur Mitwirkung an der Nachhaltigkeit an der Fakultät begründet. Durch die Corona-Krise sind auch wir in unserer Tätigkeit unterbrochen und verlangsamt worden, gleichzeitig aber sehen wir die Krise als Möglichkeit für einen Neustart und ein radikales Umdenken der Lehr- und Forschungstätigkeit der Fakultät Architektur hinsichtlich Nachhaltigkeit. 
  
-<b> Jetzt seid ihr gefragt!                       Am 27.11. findet unser Kick-off-Workshop statt. </b>
-<b> Wann? </b> Freitag, 27.11.2020, 11.00-12.00 Uhr
-<b> Wo? </b> Im virtuellen Zoom-Raum
-<b> Wer? </b> Alle, die Lust haben aktiv zu werden und ihre Ideen für mehr Nachhaltigkeit an der Architekturfakultät einzubringen
-<b> Was? </b> Ideen diskutieren, Projektgruppen gründen, sich vernetzen
+<b> Jetzt seid ihr gefragt!                       Am 27.11. findet unser Kick-off-Workshop statt. </b> <br/>
+<b> Wann? </b> Freitag, 27.11.2020, 11.00-12.00 Uhr <br/>
+<b> Wo? </b> Im virtuellen Zoom-Raum <br/>
+<b> Wer? </b> Alle, die Lust haben aktiv zu werden und ihre Ideen für mehr Nachhaltigkeit an der Architekturfakultät einzubringen<br/>
+<b> Was? </b> Ideen diskutieren, Projektgruppen gründen, sich vernetzen <br/>
 <b> Anmeldung? </b> Per Mail an <a href="mailto:nachhaltigkeit@ar.tum.de">nachhaltigkeit@ar.tum.de</a>
 
 Die Stabsstelle Nachhaltigkeit, die von Seiten des TUM-Präsidiums ins Leben gerufen wurde, verfolgt bereits eine umfassende Strategie für die gesamte TUM (mehr Informationen siehe <a href = "https://www.together.tum.de/aktuelles/veroeffentlichungen/2020/04/20/so-foerdert-die-tum-nachhaltigkeit" > (together.tum.de) </a>. Als Arbeitsgruppe Nachhaltigkeit an der Architekturfakultät knüpfen wir an diese Strategie an und ergänzen sie mit fachspezifischen Projekten. 
