@@ -10,7 +10,7 @@ Liebe Teilnehmer\*innen der Nachhaltigkeitsumfrage,
  
 wir waren erfreut über die rege Teilnahme an und sonstige Rückmeldungen zu unserer Umfrage, mit der wir im Mai 2020 den Status quo, mögliche Tätigkeitsfelder und Ideen ausgelotet haben. Viele haben sich mit Ideen zurückgemeldet und (auch schon vorher) Interesse zur Mitwirkung an der Nachhaltigkeit an der Fakultät begründet. Durch die Corona-Krise sind auch wir in unserer Tätigkeit unterbrochen und verlangsamt worden, gleichzeitig aber sehen wir die Krise als Möglichkeit für einen Neustart und ein radikales Umdenken der Lehr- und Forschungstätigkeit der Fakultät Architektur hinsichtlich Nachhaltigkeit. 
  
-<b> Jetzt seid ihr gefragt!                       Am 27.11. findet unser Kick-off-Workshop statt. </b> <br/>
+<b> Jetzt seid ihr gefragt!                             Am 27.11. findet unser Kick-off-Workshop statt. </b> <br/>
 <b> Wann? </b> Freitag, 27.11.2020, 11.00-12.00 Uhr <br/>
 <b> Wo? </b> Im virtuellen Zoom-Raum <br/>
 <b> Wer? </b> Alle, die Lust haben aktiv zu werden und ihre Ideen für mehr Nachhaltigkeit an der Architekturfakultät einzubringen<br/>
@@ -26,5 +26,4 @@ Als nächster Schritt liegt die Bildung von Arbeits- bzw. Projektgruppen nahe. D
 Wir freuen uns auf euch!
 
 
-Die Arbeitsgruppe Nachhaltigkeit AR
 Benedikt Boucsein, Kathrin Dörfler, Laura Franke, Michelle Hagenauer, Gerhard Schubert
