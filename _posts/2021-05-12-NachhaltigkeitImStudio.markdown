@@ -2,7 +2,7 @@
 layout: post
 title:  Nachhaltigkeit im Studio
 date:   2021-05-12 11:03:44 +0300
-image:  2021-05-12-Nachhaltigkeit.jpg
+image:  210512_AG.jpg
 tags:   Nachhaltigkeit Studio Modellbaumaterial
 ---
  <b> Habt ihr auch keine Lust mehr Modellbaumaterialien teuer zu kaufen, umständlich herumzutragen und anschließend große Teile wegzuwerfen? Genau darum geht es hier. <b>
