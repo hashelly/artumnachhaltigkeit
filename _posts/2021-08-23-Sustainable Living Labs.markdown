@@ -16,18 +16,26 @@ Gemeinsam mit unseren Studierenden müssen wir Zukunftsfragen neu denken und wis
 <b>Reichen Sie jetzt Ihren Vorschlag für eine Lehrveranstaltung als SLL ein! Gemeinsam mit unseren Studierenden machen wir den Campus zum Reallabor für eine nachhaltige Entwicklung der TUM – und darüber hinaus.<b>
 
 
+
+
 <b>Sichtbarkeit, Öffentlichkeit und Kommunikation<b>
+
 
 Mit der Auszeichnung als SLL erreichen Sie mehr Studierende und gewinnen zusätzliche Aufmerksamkeit in der TUM-Community. Ihr Projekt wird in der internen und externen Kommunikation der TUM aufgegriffen. Pro SLL stehen hier bis zu 3.000 € an Kommunikations- mitteln zur Verfügung (Einsatz in Abstimmung mit CST und Sustainability Office).
 
+
 <b>Finanzielle Unterstützung<b>
+
 
 Zusätzlich zur Kommunikation stehen pro SLL bis zu 5.000 € Sachmittel zur Verfügung, z. B. für Anschaffungen im Rahmen der Projektumsetzung*.
 
+
 <b>Rahmenbedingungen und Anforderungen<b>
+
 
 SLL sind inter- oder transdisziplinäre Module für motivierte Bachelor- und Masterstudierende, die sich in einem extracurricularen Programm vertieft mit den wesentlichen Elementen einer für sie fremden Disziplin, Spezialthemen und/oder mit Herausforderungen in fachüberspannenden Themenbereichen befassen. Die Arbeitsbelastung sollte 150–300h (5–10/12 Credits) betragen, wobei die Module 1- oder 2-semestrig sein können. Studierende werden fächerübergreifend angesprochen, um ihnen den Zugang zu einer für sie fremden Disziplin zu eröffnen („Politics for Rocket Scientists“). 
 Kern eines Sustainable Living Labs ist die Konzeption und Umsetzung mindestens eines konkreten Projekts, das nachhaltiges Handeln, Denken, oder anderweitige Aspekte der Nachhaltigkeit an der TUM oder darüber hinaus fördert. Es trägt dazu bei, dass unsere Campus insgesamt verstärkt als (nachhaltige) Reallabore wahrgenommen werden, und strebt gleichzeitig konkreten Impact an. Förderlich ist zudem die Möglichkeit einer selbstorganisierten Verstetigung der Projekte (sofern sinnvoll).
+
 
 <b>Bewerbung / Einreichung<b>
 
@@ -35,6 +43,8 @@ Bitte schicken Sie bis zum 10.09.21 ein Kurzkonzept (2–3 Seiten) z. B. mit Zie
 * 1) beabsichtigter Einsatz der Förderung und 
 * 2) gegebene und geplante Anrechnungsmöglichkeiten der Veranstaltung in verschiedenen Studiengängen.
 Die Evaluation der Proposals erfolgt durch das Sustainability Office gemeinsam mit dem CST. Für die Pilotphase ab WiSe 2021/22 ist die Förderung von zwei Labs je Semester vorgesehen.
+
+
 
 * Die Finanzierung von student. Hilfskräften ist leider nicht möglich. Die Anforderungen an die Abrechnung werden bei Zusage zur Verfügung gestellt.
 
