@@ -16,7 +16,6 @@ tags:   TUM_Sustainability_Office Taskforce_Nachhaltigkeit  Referat_für_Umwelt
 (please register each participant separately so that we get a good overview of the number of people!)
 
 
-
 Dear sustainable student initiatives,
 As announced in our last e-mail, we are very happy if you participate again. New members are also very welcome!
 
@@ -36,7 +35,6 @@ As announced in our last e-mail, we are very happy if you participate again. New
 * Join SSIF Telegram Group: https://t.me/joinchat/svWNYpwPFUo5MzJi
 
 <b>About us<b>
-
 Who is writing to you? My name is Tabea, I work for the Sustainability Office and organize the SSIF together with my team. I will also be your contact person if your initiative will participate in the SSIF. Interested in what else we do besides this event?
 
 Visit our websites:
@@ -54,5 +52,45 @@ TUM Sustainability Office, the students of the Taskforce Sustainability & the En
 
 
 
+-----------------------------------------------------------------------------
 
+<b>Offizielle Einladung für die 2. Session des Sustainability Student Initiatives Forum (SSIF)<b>
 
+* Datum: 03.11.2021
+* Uhrzeit: 19:00
+* Anmeldelink: <a href = "https://wiki.tum.de/display/sustainabilityforms/Register+for+the+Sustainability+Student+Initiatives+Forum" > Register for the SSIF</a>
+
+(bitte registriert jede teilnehmende Person separat, damit wir einen guten Überblick über die Personenanzahl bekommen!)
+
+ 
+Liebe Studentische Nachhaltigkeitsinitiativen,
+Wie in unserer letzten Mail schon angekündigt, freuen wir uns sehr, wenn ihr wieder teilnehmt. Neueinsteiger:innen sind ebenfalls herzlich willkommen!
+
+<b>Programm: In der 2. Session wollen wir uns um gute Meetings, Mitgliederwerbung und Finanzierung kümmern.<b>
+
+* 1) Wie macht man gute Meetings online? Das SSIF soll uns als Reallabor dienen und wir wollen ausprobieren welche Werkzeuge gut oder weniger gut funktionieren.
+* 2) Wie gewinnt und haltet ihr neue Mitglieder während Corona? Wir teilen unsere Best Practices und Ideen.
+* 3) Wo hakt's mit der Finanzierung? Wir wollen den Themenblock Finanzierung in Angriff nehmen: eure Bedürfnisse zusammentragen, gemeinsam einen Fahrplan ausarbeiten und entsprechende Aufgaben für's nächste Mal verteilen.
+* 4) Thema Finanzierung: Wir haben im ersten SSIF Treffen erkannt, dass Funding ein wichtiges Thema ist für die Initiativen und wollen das in Zukunft aufgreifen. Leider haben wir als Sustainability Office derzeit kein entsprechendes Budget und bis jetzt auch noch keine umfassende Übersicht über die Möglichkeiten, die es an der TUM so gibt. Deshalb wollen wir dieses Wissen über die nächsten Treffen hinweg mit euch gemeinsam erarbeiten.
+* 5) Virtueller Umtrunk — endlich wieder Feierabendstimmung! Schnappt euch ein Getränk eurer Wahl und wir wollen den Abend gemütlich ausklingen lassen.
+
+<b>Der weitere Fahrplan<b>
+* Registriert euch über den Link. Bitte registriert jede teilnehmende Person separat!
+* Anmeldeschluss ist der 1.11.2021 um 23:59
+* Den Zoom-Link erhaltet ihr mit der Bestätigungsmail nach der Registrierung
+* Speichert euch den Termin (.ics Datei im Anhang)
+* Tretet der SSIF Telegram Gruppe bei: https://t.me/joinchat/svWNYpwPFUo5MzJi
+
+<b>Über uns<b>
+Wer schreibt euch? Mein Name ist Tabea, ich arbeite für die Stabsstelle Nachhaltigkeit und organisiere das SSIF zusammen mit meinem Team. Ich werde auch eure Ansprechpartnerin sein, wenn eure Initiative am SSIF teilnehmen wird. Interessiert euch, was wir neben diesem Event noch machen?
+
+Besucht unsere Websites:
+* <a href = "https://www.tum.de/die-tum/die-universitaet/nachhaltigkeit/" > TUM Sustainability Office</a>
+* <a href = "https://asta-umweltreferat.fs.tum.de/" > Referat für Umwelt</a>
+* <a href = "https://chat.tum.de/channel/sustainability" > Rocket Chat Channel</a>
+* <a href = "https://t.me/joinchat/svWNYpwPFUo5MzJi" > SSIF Telegram Gruppe</a>
+ 
+
+<b>Wir freuen uns, euch in der 2. Session des SSIF zu sehen!
+Tobias, Tabea, Lisa, Clemens und Son
+TUM Sustainability Office, die Studierenden der Taskforce Nachhaltigkeit & das Referat für Umwelt.<b>
