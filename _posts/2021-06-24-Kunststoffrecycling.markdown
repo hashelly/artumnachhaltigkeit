@@ -2,8 +2,8 @@
 layout: post
 title:  Kunststoffrecycling
 date:   2021-06-24 16:26:44 +0300
-image:  img_kunststoff.jpg
-tags:   Designfactory
+image:  img_kunststoff.jpeg
+tags:   DesignFactory
 ---
  
 
