@@ -13,4 +13,4 @@ tags:   Fahrrad Reparatur_Station Innenhof
 Sie befindet sich in der Nord-Ost-Ecke des Innenhofes am Stammgelände der TUM. Hier findet ihr einige Schraubenzieher, einen Radlständer und eine Luftpumpe um euer Radl wieder flott zu machen.
 
 
-* Link zum Ort::<a href = "https://goo.gl/maps/NtvHHJuMhZXuQf177" > Fahrrad Reparatur Station</a>
+* Link zum Ort:<a href = "https://goo.gl/maps/NtvHHJuMhZXuQf177" > Fahrrad Reparatur Station</a>
