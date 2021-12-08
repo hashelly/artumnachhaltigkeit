@@ -9,7 +9,6 @@ tags:   Fahrrad Reparatur_Station Innenhof
 
 <b>Kennt ihr schon die kleine Radlwerkstatt im Innenhof der TUM?<b>
 
- 
 Sie befindet sich in der Nord-Ost-Ecke des Innenhofes am Stammgelände der TUM. Hier findet ihr einige Schraubenzieher, einen Radlständer und eine Luftpumpe um euer Radl wieder flott zu machen.
 
 
