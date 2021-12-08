@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Fahrrad Reparatur Station
+title:  AG Nachhaltigkeit
 date:   2021-12-08 16:26:44 +0300
 image:  ausrufezeichen.jpg
-tags:   AG_Nachhaltigkeit
+tags:   AG_Nachhaltigkeit Treffen
 ---
  
 
@@ -15,3 +15,6 @@ tags:   AG_Nachhaltigkeit
 * Link für Zoom:<a href = "https://tum-conf.zoom.us/j/9794052813" > Zoom</a>
 Meeting-ID: 979 405 2813
 Kenncode: 323228
+
+
+Grafik: Nemo Akkermann, Santiago Nicolas Mancera Hinestroza
