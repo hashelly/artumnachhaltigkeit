@@ -3,15 +3,14 @@ layout: post
 title:  AG Nachhaltigkeit
 date:   2021-12-08 16:26:44 +0300
 image:  ausrufezeichen.jpg
-tags:   AG_Nachhaltigkeit Treffen
+tags:   AG_Nachhaltigkeit Studios
 ---
  
 
-<b>Am Dienstag, 14.12.2021 um 16.30 trifft sich die AG Nachhaltigkeit.<b>
-
-* Anmeldung vorab gerne über das Doodle:<a href = "https://doodle.com/poll/5ds7qz3afe9nakxu?utm_source=poll&utm_medium=link" > Doodle</a>
+<b>Am Dienstag, den 11.01.2022 von 16:00 bis 18:30 Uhr trifft sich die AG Nachhaltigkeit - Studios.<b>
 
 * Link für Zoom:<a href = "https://tum-conf.zoom.us/j/9794052813" > Zoom</a>
+
 
 Meeting-ID: 979 405 2813
 Kenncode: 323228
