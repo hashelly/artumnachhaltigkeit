@@ -3,7 +3,7 @@ layout: post
 title:  Klimadiskurse
 date:   2021-12-17 16:26:44 +0300
 image:  211223_Klimadiskurse.jpg
-tags:   klimadiskurse
+tags:   klimadiskurse bayklif klimawandel
 ---
  
 
