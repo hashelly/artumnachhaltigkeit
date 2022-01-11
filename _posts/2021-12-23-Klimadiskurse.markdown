@@ -14,5 +14,5 @@ Der Klimawandel stellt die Menschheit vor komplexe Herausforderungen und erforde
 <b>Die Vorträge finden jeweils ab 18 Uhr als ZOOM Veranstaltung statt. Den Link zur Anmeldung und weitere Informationen finden Interessierte unter <a href = "www.bayklif.de/klimadiskurse" >Klimadiskurse</a>.<b> 
 
 
-* Weitere Informationen:<a href = "www.bayklif.de/klimadiskurse" >Klimadiskurse</a>
+* Weitere Informationen:<a href = "https://www.bayklif.de/klimadiskurse/" >Klimadiskurse</a>
 
