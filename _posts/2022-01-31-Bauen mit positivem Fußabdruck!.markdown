@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Bauen mit positivem Fußabdruck!
-date:   2021-12-17 16:26:44 +0300
+date:   2022-02-01 19:00:00 +0300
 image:  A4F:C2C.jpg
 tags:   Architects4Future Cradle2Cradle Stammtisch
 ---
